@@ -9,6 +9,7 @@ import { Hcard2Component } from './hcard2/hcard2.component';
 import { CourseCardComponent } from './course-card/course-card.component';
 import { FooterComponent } from './footer/footer.component';
 import { ModalComponentComponent } from './modal-component/modal-component.component';
+import { LocationComponent } from './location/location.component';
 // import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 
 @NgModule({
@@ -18,7 +19,8 @@ import { ModalComponentComponent } from './modal-component/modal-component.compo
     Hcard2Component,
     CourseCardComponent,
     FooterComponent,
-    ModalComponentComponent
+    ModalComponentComponent,
+    LocationComponent
   ],
   imports: [
     BrowserModule,
