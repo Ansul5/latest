@@ -1,0 +1,15 @@
+.login{
+    border:1px solid black;
+    border-radius: 0%;
+}
+
+.signUp{
+    background-color: black;
+    color: white;
+    border-radius: 0%;
+}
+
+.globe{
+    border:1px solid black;
+    border-radius: 0%;
+}
